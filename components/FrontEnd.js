@@ -15,7 +15,7 @@ const FrontEnd = () => {
         className="max-w-4xl mx-auto justify-center py-12 pt-40 pb-40"
         id="scroll"
       >
-        <p className="text-center text-2xl sm:text-4xl font-cursive">
+        <p className="text-center text-2xl sm:text-4xl lg:font-cursive">
           TECHNICAL SKILLS
         </p>
 

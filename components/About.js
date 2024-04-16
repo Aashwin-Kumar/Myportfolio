@@ -4,7 +4,7 @@ const About = () => {
   return (
     <>
       <div className="flex flex-col shadow-xl leading-8 shadow-sky-300 text-lg lg:text-2xl rounded-lg max-w-5xl lg:max-w-7xl mt-20 mx-auto pb-10 mb-3 text-center font-normal">
-        <p className="sm:pb-10 pb-3 font-cursive text-lg sm:text-6xl pt-10">
+        <p className="sm:pb-10 pb-3 lg:font-cursive text-lg sm:text-6xl pt-10">
           <Greetings />
         </p>
         <div className="text-left">
@@ -13,7 +13,7 @@ const About = () => {
               className="pl-6 pr-6 sm:pr-0 text-justify align-paragraph"
               style={{ lineHeight: "1.6" }}
             >
-              <span className="inline-block pr-1">
+              <span className="inline-block pb-2 lg:pr-1">
                 <Myday />
               </span>
               I'm Ashwin, a tech enthusiast on a journey fueled by data. After

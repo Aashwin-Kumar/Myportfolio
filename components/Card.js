@@ -21,7 +21,7 @@ const Card = () => {
           </div>
 
           <div className="text-center mt-6">
-            <p className="text-xl sm:text-2xl text-black-600 font-semibold font-cursive">
+            <p className="text-xl sm:text-2xl text-black-600 font-semibold lg:font-cursive">
               ASHWIN KUMAR{" "}
             </p>
             <p className="text-base sm:text-lg pt-4 pb-5 px-5 font-semibold w-auto inline-block border-b-2 ">
